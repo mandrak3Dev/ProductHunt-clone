@@ -109,7 +109,7 @@ export default function NuevoProducto() {
                 <input
                   type="text"
                   id="nombre"
-                  placeholder="Tu Nombre"
+                  placeholder="Nombre del Producto"
                   name="nombre"
                   value={nombre}
                   onChange={handleChange}
